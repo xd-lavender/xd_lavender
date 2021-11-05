@@ -1,5 +1,7 @@
 # xdCAF Xiaomi Redmi Note 7 #
 
+![XD_LAVENDER](https://github.com/xyz-prjkt/xyz_assets/raw/main/xd_la_ba.png)
+
 ### Setup our local manifest ###
 
 ```bash
