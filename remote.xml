@@ -10,9 +10,4 @@
 <remote   name="github"
           fetch="https://github.com"/>
 
-  <!-- Tracked Repository -->
-  <include name="lavender_device.xml"/>
-  <include name="lavender_vendor.xml"/>
-  <include name="lavender_kernel.xml"/>
-
 </manifest>
