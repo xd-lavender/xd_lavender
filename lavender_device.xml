@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device Repository -->
+  <project path="device/xiaomi/lavender" name="xd_device_xiaomi_lavender" remote="xd_lavender"/>
+
+</manifest>

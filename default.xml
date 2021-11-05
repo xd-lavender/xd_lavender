@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- xdCAF Lavender Remote -->
+<remote   name="xd_lavender"
+          fetch="https://github.com/xdCAF-lavender"
+          revision="twelve"/>
+
+<!-- Github Remote Repository -->
+<remote   name="github"
+          fetch="https://github.com"/>
+
+  <!-- Tracked Repository -->
+  <include name="lavender_device.xml"/>
+  <include name="lavender_vendor.xml"/>
+  <include name="lavender_kernel.xml"/>
+
+</manifest>
