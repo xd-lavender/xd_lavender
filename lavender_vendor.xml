@@ -4,8 +4,4 @@
   <!-- Vendor Repository -->
   <project path="vendor/xiaomi/lavender" name="xd_vendor_xiaomi_lavender" remote="xd_lavender"/>
 
-  <!-- Vendor CAF -->
-  <remove-project name="xd_vendor_qcom_opensource_display-commonsys"/>
-  <project path="vendor/qcom/opensource/commonsys/display" name="xd_vendor_qcom_opensource_display-commonsys" remote="xd_lavender"/>
-
 </manifest>
