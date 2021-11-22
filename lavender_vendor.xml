@@ -3,5 +3,6 @@
 
   <!-- Vendor Repository -->
   <project path="vendor/xiaomi/lavender" name="xd_vendor_xiaomi_lavender" remote="xd_lavender"/>
+  <project path="vendor/xiaomi/dirac" name="xd_vendor_xiaomi_dirac" remote="xd_lavender"/>
 
 </manifest>
