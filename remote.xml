@@ -4,7 +4,7 @@
 <!-- xdCAF Lavender Remote -->
 <remote   name="xd_lavender"
           fetch="https://github.com/xdCAF-lavender"
-          revision="twelve"/>
+          revision="xd.xii"/>
 
 <!-- Github Remote Repository -->
 <remote   name="github"

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="hardware_qcom-caf_msm8998_media"/>
+  <project path="hardware/qcom-caf/msm8998/media" name="xd_msm8998_media" remote="xd_lavender"/>
+      
+  <remove-project name="hardware_qcom-caf_msm8998_display" />
+  <project path="hardware/qcom-caf/msm8998/display" name="xd_msm8998_display" remote="xd_lavender"/>
+
+  <remove-project name="hardware_qcom-caf_msm8998_audio" />
+  <project path="hardware/qcom-caf/msm8998/audio" name="xd_msm8998_audio" remote="xd_lavender"/>
+
+</manifest>
