@@ -3,7 +3,7 @@
 
 <!-- xdCAF Lavender Remote -->
 <remote   name="xd_lavender"
-          fetch="https://github.com/xdCAF-lavender"
+          fetch="https://github.com/xd-lavender"
           revision="xd.xii"/>
 
 </manifest>
