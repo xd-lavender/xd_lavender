@@ -6,8 +6,4 @@
           fetch="https://github.com/xdCAF-lavender"
           revision="xd.xii"/>
 
-<!-- Github Remote Repository -->
-<remote   name="github"
-          fetch="https://github.com"/>
-
 </manifest>
