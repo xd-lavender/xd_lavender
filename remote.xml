@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<!-- xdCAF Lavender Remote -->
+<!-- xdroidOSS lavender Remote -->
 <remote   name="xd_lavender"
-          fetch="https://github.com/xd-lavender"
-          revision="xd.xii"/>
+          fetch="https://github.com/xdroid-devices"
+          revision="twelve"/>
 
 </manifest>
